@@ -1,7 +1,5 @@
 # CDC Data Export Service
 
-## Project Overview
-
 This project is a containerized backend service that implements Change Data Capture (CDC) using a timestamp-based watermark approach.
 
 It allows different consumers to export user data in three ways:
@@ -188,11 +186,3 @@ See `.env.example` for required variables:
 * Multiple consumers supported
 * Idempotent database seeding
 * 70%+ test coverage
-
----
-
-## Future Improvements
-
-* Job status tracking
-* Pagination for large exports
-* Message queue integration
