@@ -1,7 +1,5 @@
 # CDC Data Export Service
 
-## Project Overview
-
 This project is a containerized backend service that implements Change Data Capture (CDC) using a timestamp-based watermark approach.
 
 It allows different consumers to export user data in three ways:
