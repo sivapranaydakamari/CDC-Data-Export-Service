@@ -186,11 +186,3 @@ See `.env.example` for required variables:
 * Multiple consumers supported
 * Idempotent database seeding
 * 70%+ test coverage
-
----
-
-## Future Improvements
-
-* Job status tracking
-* Pagination for large exports
-* Message queue integration
